@@ -1,0 +1,8 @@
+,Men,Women
+Intercept,4.995,13.537
+Age,-0.0145,-0.0225
+Ln(total chol/HDL),-0.6738,-0.834
+Ln(SBP),0,-1.3713
+Diabetes,-0.3042,-0.7829
+Smoker,0,-0.3669
+Value,0.9994,1.0313
